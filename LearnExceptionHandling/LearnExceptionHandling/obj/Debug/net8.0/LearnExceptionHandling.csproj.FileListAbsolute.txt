@@ -1,0 +1,14 @@
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\bin\Debug\net8.0\LearnExceptionHandling.exe
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\bin\Debug\net8.0\LearnExceptionHandling.deps.json
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\bin\Debug\net8.0\LearnExceptionHandling.runtimeconfig.json
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\bin\Debug\net8.0\LearnExceptionHandling.dll
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\bin\Debug\net8.0\LearnExceptionHandling.pdb
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\obj\Debug\net8.0\LearnExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\obj\Debug\net8.0\LearnExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\obj\Debug\net8.0\LearnExceptionHandling.AssemblyInfo.cs
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\obj\Debug\net8.0\LearnExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\obj\Debug\net8.0\LearnExceptionHandling.dll
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\obj\Debug\net8.0\refint\LearnExceptionHandling.dll
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\obj\Debug\net8.0\LearnExceptionHandling.pdb
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\obj\Debug\net8.0\LearnExceptionHandling.genruntimeconfig.cache
+C:\Users\shrey\Desktop\VS-Studio\C#\LearnExceptionHandling\LearnExceptionHandling\obj\Debug\net8.0\ref\LearnExceptionHandling.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\Desktop\\VS-Studio\\DOTNET\\C#\\MyFirstProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B50D4D-1E74-49D2-A3CD-333F2463AE72}|MyFirstProgram\\MyFirstProgram.csproj|c:\\users\\shrey\\desktop\\vs-studio\\dotnet\\c#\\myfirstprogram\\myfirstprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B50D4D-1E74-49D2-A3CD-333F2463AE72}|MyFirstProgram\\MyFirstProgram.csproj|solutionrelative:myfirstprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\VS-Studio\\DOTNET\\C#\\MyFirstProgram\\MyFirstProgram\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\VS-Studio\\DOTNET\\C#\\MyFirstProgram\\MyFirstProgram\\Program.cs*",
+              "RelativeToolTip": "MyFirstProgram\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:12:41.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
