@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shrey\\Desktop\\VS-Studio\\C#\\LearnExceptionHandling\\",
+  "WorkspaceRootPath": "C:\\Users\\shrey\\Desktop\\VS-Studio\\CSharp\\LearnExceptionHandling\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54D93DC4-3C4D-4CBF-BE7B-668074086EA5}|LearnExceptionHandling\\LearnExceptionHandling.csproj|c:\\users\\shrey\\desktop\\vs-studio\\c#\\learnexceptionhandling\\learnexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{54D93DC4-3C4D-4CBF-BE7B-668074086EA5}|LearnExceptionHandling\\LearnExceptionHandling.csproj|c:\\users\\shrey\\desktop\\vs-studio\\csharp\\learnexceptionhandling\\learnexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54D93DC4-3C4D-4CBF-BE7B-668074086EA5}|LearnExceptionHandling\\LearnExceptionHandling.csproj|solutionrelative:learnexceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\VS-Studio\\C#\\LearnExceptionHandling\\LearnExceptionHandling\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\VS-Studio\\CSharp\\LearnExceptionHandling\\LearnExceptionHandling\\Program.cs",
               "RelativeDocumentMoniker": "LearnExceptionHandling\\Program.cs",
-              "ToolTip": "C:\\Users\\shrey\\Desktop\\VS-Studio\\C#\\LearnExceptionHandling\\LearnExceptionHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\VS-Studio\\CSharp\\LearnExceptionHandling\\LearnExceptionHandling\\Program.cs",
               "RelativeToolTip": "LearnExceptionHandling\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T14:32:45.563Z",
               "EditorCaption": ""

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trail4", "Trail4\Trail4.csproj", "{A41DB933-5DA0-4658-8074-3B0BD9DB4AC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41DB933-5DA0-4658-8074-3B0BD9DB4AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41DB933-5DA0-4658-8074-3B0BD9DB4AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41DB933-5DA0-4658-8074-3B0BD9DB4AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41DB933-5DA0-4658-8074-3B0BD9DB4AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {335D90CE-41CB-45A9-A759-E5E31DDCB5EC}
+	EndGlobalSection
+EndGlobal

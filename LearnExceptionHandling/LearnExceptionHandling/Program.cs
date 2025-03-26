@@ -42,12 +42,20 @@ namespace LearnExceptionHandling
             finally
             {
                 Console.WriteLine("This block always executes."); // Good for cleanup
+                
+                string message = temperature(40);
+                Console.WriteLine(message);
             }
         }
 
         static int Result(int num1, int num2)
         {
             return num1 / num2;
+        }
+        static string temperature(int temp)
+        {
+            string message = (temp > 30) ? "It's HOT" : "its COOL";
+            return message;
         }
     }
 }

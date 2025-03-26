@@ -1,0 +1,15 @@
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\bin\Debug\net8.0\Trail4.exe
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\bin\Debug\net8.0\Trail4.deps.json
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\bin\Debug\net8.0\Trail4.runtimeconfig.json
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\bin\Debug\net8.0\Trail4.dll
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\bin\Debug\net8.0\Trail4.pdb
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\obj\Debug\net8.0\Trail4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\obj\Debug\net8.0\Trail4.AssemblyInfoInputs.cache
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\obj\Debug\net8.0\Trail4.AssemblyInfo.cs
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\obj\Debug\net8.0\Trail4.csproj.CoreCompileInputs.cache
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\obj\Debug\net8.0\Trail4.sourcelink.json
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\obj\Debug\net8.0\Trail4.dll
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\obj\Debug\net8.0\refint\Trail4.dll
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\obj\Debug\net8.0\Trail4.pdb
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\obj\Debug\net8.0\Trail4.genruntimeconfig.cache
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Trail4\Trail4\obj\Debug\net8.0\ref\Trail4.dll
