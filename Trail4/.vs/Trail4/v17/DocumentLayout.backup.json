@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{A41DB933-5DA0-4658-8074-3B0BD9DB4AC2}|Trail4\\Trail4.csproj|solutionrelative:trail4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shrey\\Desktop\\VS-Studio\\CSharp\\Trail4\\Trail4\\Messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Trail4\\Messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41DB933-5DA0-4658-8074-3B0BD9DB4AC2}|Trail4\\Trail4.csproj|c:\\users\\shrey\\desktop\\vs-studio\\csharp\\trail4\\trail4\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41DB933-5DA0-4658-8074-3B0BD9DB4AC2}|Trail4\\Trail4.csproj|solutionrelative:trail4\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Trail4\\Program.cs",
               "ToolTip": "C:\\Users\\shrey\\Desktop\\VS-Studio\\CSharp\\Trail4\\Trail4\\Program.cs*",
               "RelativeToolTip": "Trail4\\Program.cs*",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwC4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T09:51:32.698Z",
               "EditorCaption": ""

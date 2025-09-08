@@ -1,0 +1,15 @@
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\obj\Debug\net8.0\Advancebasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\obj\Debug\net8.0\Advancebasics.AssemblyInfoInputs.cache
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\obj\Debug\net8.0\Advancebasics.AssemblyInfo.cs
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\obj\Debug\net8.0\Advancebasics.csproj.CoreCompileInputs.cache
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\obj\Debug\net8.0\Advancebasics.sourcelink.json
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\bin\Debug\net8.0\Advancebasics.exe
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\bin\Debug\net8.0\Advancebasics.deps.json
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\bin\Debug\net8.0\Advancebasics.runtimeconfig.json
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\bin\Debug\net8.0\Advancebasics.dll
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\bin\Debug\net8.0\Advancebasics.pdb
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\obj\Debug\net8.0\Advancebasics.dll
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\obj\Debug\net8.0\refint\Advancebasics.dll
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\obj\Debug\net8.0\Advancebasics.pdb
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\obj\Debug\net8.0\Advancebasics.genruntimeconfig.cache
+C:\Users\shrey\Desktop\VS-Studio\CSharp\Advancebasics\Advancebasics\obj\Debug\net8.0\ref\Advancebasics.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\Desktop\\VS-Studio\\CSharp\\Advancebasics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81E0A68F-0786-4ADF-8A28-46ED6A9F8875}|Advancebasics\\Advancebasics.csproj|c:\\users\\shrey\\desktop\\vs-studio\\csharp\\advancebasics\\advancebasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81E0A68F-0786-4ADF-8A28-46ED6A9F8875}|Advancebasics\\Advancebasics.csproj|solutionrelative:advancebasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\VS-Studio\\CSharp\\Advancebasics\\Advancebasics\\Program.cs",
+              "RelativeDocumentMoniker": "Advancebasics\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\VS-Studio\\CSharp\\Advancebasics\\Advancebasics\\Program.cs",
+              "RelativeToolTip": "Advancebasics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:46:10.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
